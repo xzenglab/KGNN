@@ -1,7 +1,7 @@
 # KGNN
 Source Code Repository for KGNN: Knowledge Graph Neural Network for Drug-Drug Interaction Prediction. (IJCAI' 20 accepted )
-<div align="center">
-<img src="Figure1.png">
+
+<img src="Figure1.png" align="center">
 
 # Setup
 To run the code, you need the following dependencies:
