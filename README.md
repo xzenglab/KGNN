@@ -3,7 +3,7 @@ Source Code Repository for KGNN: Knowledge Graph Neural Network for Drug-Drug In
 
 <img align="center" src="Figure1.png">
 
-# Setup
+# Installation
 To run the code, you need the following dependencies:
 * Python 3.6.6
 * Keras 2.3.0
