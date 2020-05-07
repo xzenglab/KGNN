@@ -10,4 +10,8 @@ To run the code, you need the following dependencies:
 * Tensorflow 1.13.1
 
 # Installation
-
+```bash
+git clone https://github.com/xzenglab/KGNN.git
+cd KGNN
+pip install -r requirement.txt
+```
