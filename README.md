@@ -1,5 +1,8 @@
 # Knowledge Graph Neural Network
-This is our implementation for the paper "KGNN: Knowledge Graph Neural Network for Drug-Drug Interaction Prediction". (IJCAI' 20 accepted )
+This is our implementation for the paper
+```bash
+Xuan Lin, Zhe Quan, Zhi-Jie Wang, Tengfei Ma and Xiangxiang Zeng. KGNN: Knowledge Graph Neural Network for Drug-Drug Interaction Prediction. IJCAI' 20 accepted.
+```
 
 <img align="center" src="Figure1.png">
 
@@ -15,3 +18,5 @@ git clone https://github.com/xzenglab/KGNN.git
 cd KGNN
 pip install -r requirement.txt
 ```
+
+# Citation
