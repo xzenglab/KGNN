@@ -1,6 +1,6 @@
 # Knowledge Graph Neural Network
 This is our implementation for the paper
-```bash
+```MarkDown
 Xuan Lin, Zhe Quan, Zhi-Jie Wang, Tengfei Ma and Xiangxiang Zeng. KGNN: Knowledge Graph Neural Network for Drug-Drug Interaction Prediction. IJCAI' 20 accepted.
 ```
 
