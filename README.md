@@ -12,7 +12,10 @@ To run the code, you need the following dependencies:
 * Tensorflow == 1.13.1
 
 # Installation
+You can create a virtual environment using [conda](https://github.com/conda/conda).
 ```bash
+conda create -n kgnn python=3.6.6
+source activate kgnn
 git clone https://github.com/xzenglab/KGNN.git
 cd KGNN
 pip install -r requirement.txt
