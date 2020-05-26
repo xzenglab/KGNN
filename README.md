@@ -3,6 +3,7 @@ This is our implementation for the paper
 > Xuan Lin, Zhe Quan, Zhi-Jie Wang, Tengfei Ma and Xiangxiang Zeng. KGNN: Knowledge Graph Neural Network for Drug-Drug Interaction Prediction. IJCAI' 20 accepted.
 
 <img align="center" src="Figure1.png">
+Figure 1 shows the overview of KGNN. It takes the parsed DDI matrix and knowledge graph obtained from preprocessing of dataset as the input. It outputs the interaction value for the drug-drug pair. 
 
 # Requirement
 To run the code, you need the following dependencies:
@@ -15,6 +16,10 @@ To run the code, you need the following dependencies:
 git clone https://github.com/xzenglab/KGNN.git
 cd KGNN
 pip install -r requirement.txt
+```
+# Usage
+```bash
+python run.py
 ```
 
 # Citation
