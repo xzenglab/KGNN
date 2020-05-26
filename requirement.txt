@@ -1,2 +1,2 @@
-keras=2.3.0
-tensorflow=1.13.1
+keras==2.3.0
+tensorflow-gpu==1.13.1
