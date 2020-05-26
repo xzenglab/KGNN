@@ -28,3 +28,5 @@ python run.py
 
 # Citation
 (To appear)
+
+For any clarification, comments, or suggestions please create an issue or contact [Jacklin](Jack_lin@hnu.edu.cn).
