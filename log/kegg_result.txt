@@ -1,0 +1,25 @@
+
+{
+    "dataset": "kegg",
+    "aggregator_type": "sum",
+    "avg_auc": 0.938756966215452,
+    "avg_acc": 0.8818636483285076,
+    "avg_f1": 0.8862110780814716,
+    "avg_aupr": 0.913409249924768
+}
+{
+    "dataset": "kegg",
+    "aggregator_type": "concat",
+    "avg_auc": 0.9422603382496118,
+    "avg_acc": 0.8844608230236026,
+    "avg_f1": 0.8894623337136158,
+    "avg_aupr": 0.9212097541492508
+}
+{
+    "dataset": "kegg",
+    "aggregator_type": "neigh",
+    "avg_auc": 0.9295291768137703,
+    "avg_acc": 0.8681056418355707,
+    "avg_f1": 0.8726862207220266,
+    "avg_aupr": 0.905257788202998
+}
