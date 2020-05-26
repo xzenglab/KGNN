@@ -17,6 +17,10 @@ git clone https://github.com/xzenglab/KGNN.git
 cd KGNN
 pip install -r requirement.txt
 ```
+
+# Dataset
+We just provide the preprocessed KG from KEGG dataset owing to the size limited. Please feel free contact [Jacklin](Jack_lin@hnu.edu.cn) if you need the KG from DrugBank dataset (V5.1.4). The construction of KG please refer to [Bio2RDF](https://github.com/bio2rdf/bio2rdf-scripts/wiki) tool for detail.
+
 # Usage
 ```bash
 python run.py
