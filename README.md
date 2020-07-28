@@ -31,7 +31,7 @@ python run.py
 ```
 
 # Citation
-@inproceedings{ijcai2020-380,
+@inproceedings{ijcai2020-380,  
   title     = {KGNN: Knowledge Graph Neural Network for Drug-Drug Interaction Prediction},  
   author    = {Lin, Xuan and Quan, Zhe and Wang, Zhi-Jie and Ma, Tengfei and Zeng, Xiangxiang},  
   booktitle = {Proceedings of the Twenty-Ninth International Joint Conference on Artificial Intelligence, {IJCAI-20}},  
