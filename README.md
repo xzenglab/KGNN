@@ -32,19 +32,17 @@ python run.py
 
 # Citation
 @inproceedings{ijcai2020-380,
-  title     = {KGNN: Knowledge Graph Neural Network for Drug-Drug Interaction Prediction},
-  author    = {Lin, Xuan and Quan, Zhe and Wang, Zhi-Jie and Ma, Tengfei and Zeng, Xiangxiang},
-  booktitle = {Proceedings of the Twenty-Ninth International Joint Conference on
-               Artificial Intelligence, {IJCAI-20}},
-  publisher = {International Joint Conferences on Artificial Intelligence Organization},             
-  editor    = {Christian Bessiere}	
-  pages     = {2739--2745},
-  year      = {2020},
-  month     = {7},
-  note      = {Main track}
-  doi       = {10.24963/ijcai.2020/380},
-  url       = {https://doi.org/10.24963/ijcai.2020/380},
-}
-
+  title     = {KGNN: Knowledge Graph Neural Network for Drug-Drug Interaction Prediction},  
+  author    = {Lin, Xuan and Quan, Zhe and Wang, Zhi-Jie and Ma, Tengfei and Zeng, Xiangxiang},  
+  booktitle = {Proceedings of the Twenty-Ninth International Joint Conference on Artificial Intelligence, {IJCAI-20}},  
+  publisher = {International Joint Conferences on Artificial Intelligence Organization},               
+  editor    = {Christian Bessiere},    	
+  pages     = {2739--2745},    
+  year      = {2020},  
+  month     = {7},  
+  note      = {Main track},  
+  doi       = {10.24963/ijcai.2020/380},  
+  url       = {https://doi.org/10.24963/ijcai.2020/380},  
+}  
 
 For any clarification, comments, or suggestions please create an issue or contact [Jacklin](Jack_lin@hnu.edu.cn).
