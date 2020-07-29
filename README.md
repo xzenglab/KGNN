@@ -23,7 +23,7 @@ pip install -r requirement.txt
 ```
 
 # Dataset
-We just provide the preprocessed KG from KEGG-drug dataset owing to the size limited. You can directly download the original DrugBank dataset ([V5.1.4](https://www.drugbank.ca/releases/5-1-4)). The construction of KG please refer to [Bio2RDF](https://github.com/bio2rdf/bio2rdf-scripts/wiki) tool in detail.
+We just provide the preprocessed KG from KEGG-drug dataset owing to the size limited. And you can directly download the original DrugBank dataset ([V5.1.4](https://www.drugbank.ca/releases/5-1-4)). Note that the construction of KG please refer to [Bio2RDF](https://github.com/bio2rdf/bio2rdf-scripts/wiki) tool in detail.
 
 # Usage
 ```bash
